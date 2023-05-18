@@ -9,7 +9,7 @@ body{
 h1{
     margin: 0;
     padding: 0;
-    background-color: azure;
+    background-color: rgb(211, 54, 62);
     font-family: monospace;
     text-align: center;
     font-size: 80px;
@@ -24,4 +24,18 @@ h2{
 .filme
 {
     text-align: center;
+}
+.cartazes{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+.imagem{
+  width: 60%;
+  height: 200px;
+}
+.link{
+  background-color: rgb(24, 2, 2);
+  color: #a7202048;
+  font-size: 43px; 
+
 }
