@@ -36,6 +36,6 @@ h2{
 .link{
   background-color: rgb(24, 2, 2);
   color: #a7202048;
-  font-size: 43px; 
-
+  font-size: 30px; 
+ border-radius: 10px;
 }
